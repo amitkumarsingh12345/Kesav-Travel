@@ -1,2 +1,2 @@
-# Kesav-Travel https://lightslategrey-gorilla-544308.hostingersite.com/
+# Kesav-Travel
 USING : HTML, CSS, SCSS, JS, BOOTSTRAP, PHP, MYSQL
